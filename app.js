@@ -1,3 +1,5 @@
+// alteração para teste de commit
+
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
